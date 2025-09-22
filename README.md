@@ -1,4 +1,4 @@
-# Tugas-Tailwind-P2
+# Tugas-Bootstrap-P2
 Muhammad Rio(2411102441270)
 
 1. Konfigurasi Kolom untuk Tiap Breakpoint
